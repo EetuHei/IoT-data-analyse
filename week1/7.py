@@ -4,11 +4,10 @@ arrOne = np.array([[5, 6, 9], [21, 18, 27]])
 arrTwo = np.array([[15, 33, 24], [4, 7, 1]])
 
 result = arrOne + arrTwo
-print("addition of two arrays is: ")
 print(result)
 
-for num in np.nditer(result, op_flags=['readwrite']):
-    num[...] = num*num
+for numbers in np.nditer(result, op_flags=['readwrite']):
+    numbers[...] = numbers*numbers
 print("result array after calculating the sqrt of all elements")
 # [[ 400 1521 1089]
 #  [ 625  625  784]]
