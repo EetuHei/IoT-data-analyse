@@ -1,0 +1,5 @@
+2020-10-11 12:35:34.073880, available memory: 34.98% out of: 15.94 gb
+2020-10-11 12:35:39.088075, available memory: 34.96% out of: 15.94 gb
+2020-10-11 12:35:40.090036, available memory: 34.9% out of: 15.94 gb
+2020-10-11 12:35:44.105063, available memory: 34.86% out of: 15.94 gb
+2020-10-11 12:35:45.106043, available memory: 34.84% out of: 15.94 gb
